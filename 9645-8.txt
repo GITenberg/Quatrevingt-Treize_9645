@@ -13,6 +13,7 @@ Author: Victor Hugo
 Posting Date: November 19, 2011 [EBook #9645]
 Release Date: January, 2006
 First Posted: October 13, 2003
+[Last updated: January 8, 2017]
 
 Language: French
 
@@ -122,7 +123,7 @@ trouver ce qu'on cherchait.
 
 De temps en temps on rencontrait des traces de campements, des places
 brûlées, des herbes foulées, des bâtons en croix, des branches sanglantes.
-Là on avait fait la soupe, là on avait dit la messe, là ou avait pansé des
+Là on avait fait la soupe, là on avait dit la messe, là on avait pansé des
 blessés. Mais ceux qui avaient passé avaient disparu. Où étaient-ils? Bien
 loin peut-être? peut-être là tout près, cachés, l'espingole au poing? Le
 bois semblait désert. Le bataillon redoublait de prudence. Solitude, donc
@@ -739,7 +740,7 @@ voici ce qui se passait dans l'archipel de la Manche.
 Un soir, le 1er juin, à Jersey, dans la petite baie déserte de Bonnenuit,
 une heure environ avant le coucher du soleil, par un de ces temps brumeux
 qui sont commodes pour s'enfuir parce qu'ils sont dangereux pour naviguer,
-Une corvette mettait à la voile. Ce bâtiment, était monté par un équipage
+une corvette mettait à la voile. Ce bâtiment, était monté par un équipage
 français, mais faisait partie de la flottille anglaise placée en station et
 comme en sentinelle à la pointe orientale de l'île. Le prince de La
 Tour-d'Auvergne, qui était de la maison de Bouillon, commandait la
@@ -751,7 +752,7 @@ Claymore_, était en apparence une corvette de charge, mais en réalité une
 corvette de guerre. Elle avait la lourde et pacifique allure marchande; il
 ne fallait pas s'y fier pourtant. Elle avait été construite à deux fins,
 ruse et force: tromper, s'il est possible, combattre, s'il est nécessaire.
-Pour le service quelle avait à faire cette nuit-là, le chargement avait été
+Pour le service qu'elle avait à faire cette nuit-là, le chargement avait été
 remplacé dans l'entre-pont par trente caronades de fort calibre. Ces trente
 caronades, soit qu'on prévit une tempête, soit plutôt, qu'on voulût donner
 une figure débonnaire au navire, étaient à la serre, c'est-à-dire fortement
@@ -839,7 +840,7 @@ toute la côte sera en feu, de Granville à Saint-Malo.»
 Quatre jours auparavant, par émissaire secret, le représentant Prieur de la
 Marne, en mission près de l'armée des côtes de Cherbourg, et momentanément
 en résidence à Granville, avait reçu, écrit de la même écriture que la
-Dépêche précédente, le message qu'on va lire:
+dépêche précédente, le message qu'on va lire:
 
 «Citoyen représentant, le 1er juin, à l'heure de la marée, la corvette de
 guerre _Claymore_, à batterie masquée, appareillera pour déposer sur
@@ -919,7 +920,7 @@ en baissant la voix:
 --Vous le savez, messieurs, le secret importe. Silence jusqu'au moment de
 l'explosion. Vous seuls connaissez ici mon nom.
 
---Nous l'emporterons an tombeau, répondit Boisberthelot.
+--Nous l'emporterons au tombeau, répondit Boisberthelot.
 
 --Quant à moi, repartit le vieillard, fussé-je devant la mort, je ne le
 dirais pas.
@@ -1406,7 +1407,7 @@ bougeait point. Il paraissait impossible de faire un pas dans la batterie.
 Chaque mouvement de la caronade en liberté ébauchait l'effondrement du
 navire. Encore quelques instants, et le naufrage était inévitable.
 
-Il fallait périr ou couper court an désastre; prendre un parti; mais
+Il fallait périr ou couper court au désastre; prendre un parti; mais
 lequel?
 
 Quelle combattante que cette caronade!
@@ -1587,7 +1588,7 @@ fallu éclairer le pont par quelques falots plantés çà et là dans le
 bordage.
 
 Cependant, tout le temps qu'avait duré cette diversion tragique, l'équipage
-étant absorbé par une question de vie ou de mort, ou n'avait guère su ce
+étant absorbé par une question de vie ou de mort, on n'avait guère su ce
 qui se passait hors de la corvette. Le brouillard s'était épaissi; le temps
 avait changé; le vent avait fait du navire ce qu'il avait voulu; on était
 hors de route, à découvert de Jersey et de Guernesey, plus au sud qu'on ne
